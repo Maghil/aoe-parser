@@ -1,0 +1,419 @@
+===============================================
+Japanese
+Difficulty level: Easy
+Castle age: 100 kills or 30 minutes
+Imperial Age: 200 kills or 40 minutes
+Bombard Towers: 400 kills
+Bonus:
+= Yasama (Towers shoot triple arrow) in Castle Age
+= Pop limit: 30
+===============================================
+
+===============================================
+Britons:
+Difficulty level: Easy
+Castle age: 100 kills or 30 minutes
+Imperial Age: 200 kills or 40 minutes
+Bombard Towers: 400 kills
+Bonus:
+= Yeomen
++ 5 AP in Castle Age + 17 AP in Imperial Age
++ Pop limit: 30 in Castle Age
+===============================================
+
+===============================================
+Celts:
+Difficulty level: Easy
+Castle age: 100 kills or 30 minutes
+Imperial Age: 200 kills or 40 minutes
+Bombard Towers: 400 kills
+Bonus:
+= Stronghold
++ Double Arrow in Castle Age
++ Towers fire 40% faster in Castle Age and 50% faster in Imperial age
+= Pop limit: 30
+===============================================
+
+===============================================
+Franks:
+Difficulty level: Medium
+Castle age: 100 kills or 30 minutes
+Imperial Age: 200 kills or 40 minutes
+Bombard Towers: 400 kills
+Bonus:
++ Towers fire axes 
++ 2 AP in Feudal Age + 8 AP in Castle Age + 17 AP in Imperial Age
++ 50% faster axes in Castle Age and Imperial Age
++ Pop limit: 30 in Castle Age
+Penalty:
+- 3 range
+===============================================
+
+===============================================
+Turks:
+Difficulty level: Medium
+Castle age: 60 kills  or 30 minutes
+Imperial Age: 200 kills or 40 minutes
+Bombard Towers: 200 kills
+Bonus:
+= Artillery
++ 3 Range Bombard cannons (total)
++ 200 AP for Bombard Towers (total)
++ Pop limit: 50 in Castle Age
++ Janissary at Archery Range in Castle Age and in Imperial Age
++ Bombard Cannons and Sabouters
+===============================================
+
+===============================================
+Spanish
+Difficulty level: Medium
+Castle age: 60 kills or 30 minutes
+Imperial Age: 200 kills or 40 minutes
+Bombard Towers: 250 kills
+Bonus:
++ Fast bombard towers 50%
++ Pop limit: 50 in Castle Age
++ Conquistadors at Stables
+===============================================
+
+===============================================
+Koreans:
+Difficulty level: Easy
+Castle age: 90 kills or 30 minutes
+Imperial Age: 200 kills or 40 minutes
+Bonus:
+= Free Bombard Tower
++ Tower Range: +1 Castle, +2 Imperial Age (total) + 2 line of sight
++ Pop limit: 50 in Castle Age
+===============================================
+
+===============================================
+Byzantines:
+Difficulty level: Medium
+Castle age: 90 kills or 30 minutes
+Imperial Age: 200 kills or 40 minutes
+Fire Towers: 200 kills
+Bombard Towers: 400 kills
+Bonus:
+= Towers +20% HP Feudal age, +30% HP Castle Age, +40% Imperial HP Age
++ Cataphracts available at Stables (Castle Age and Imperial Age)
++ Pop limit: 50 in Castle Age
+===============================================
+
+===============================================
+Goths:
+Difficulty level: Hard
+Castle age: 60 kills or 30 minutes
+Imperial Age: 200 kills or 40 minutes
+Bombard Towers: 400 kills
+Bonus:
+= Huskarls available at Barracks
++ Pop limit in Castle age: 50 + Pop limit in Imperial age: 150
+===============================================
+
+===============================================
+Aztecs,Incas,Mayans:
+Difficulty level: Hardest
+Castle age: 60 kills or 30 minutes
+Imperial Age: 200 kills or 40 minutes
+NO Bombard Towers
++ 20% fast vill
++ Pop limit in Castle age: 50
++ Stronger Eagles + Faster Training Eagles
++ Faster training archers
++ Plumed Archer at Archery Range in Castle age*
+===============================================
+
+===============================================
+Vikings:
+Difficulty level: Hard
+Castle age: 90 kills or 30 minutes
+Imperial Age: 200 kills or 40 minutes
+Bombard Towers: 400 kills
++ Siege Onager and Scorpions
++ 200 HP Villager
++ Pop limit in Castle age: 30
+===============================================
+
+===============================================
+Mongols:
+Difficulty level: Hard
+Castle age: 100 kills or 30 minutes
+Imperial Age: 200 kills or 40 minutes
+Bombard Towers: 400 kills
++ Pop limit in Castle age: 30
++ Siege Onager and Scorpions
++ One Genghis Khan Hero
+===============================================
+
+===============================================
+Teutons:
+Difficulty level: Medium
+Castle age: 90 kills or 30 minutes
+Imperial Age: 200 kills  or 40 minutes
+Bombard Towers: 400 kills
++  Murder holes in feudal age
++ 1 range in feudal age + 1 range in castle age + 1 range in imperial age
++ Siege Onager, Scorpions and Bombard Cannons
++ Pop limit in Castle age:30
+===============================================
+
+===============================================
+Huns:
+Difficulty level: Hard
+Castle age: 60 kills  or 30 minutes
+Imperial Age: 200 kills or 40 minutes
+Bombard Towers: 400 kills
++ Elite Tarkans at the stables
++ Pop limit in Castle age: 50 + Pop limit in Imperial age: 150
+===============================================
+
+===============================================
+Persians:
+Difficulty level: Hardest
+Castle Age: 60 kills or 30 minutes
+Imperial Age: 200 kills or 40 minutes
+Bombard Towers: 400 kills
++ Fire Tower with 45 AP only in Imperial age
++ War Elephants at Stables
+= Pop limit: 50
+===============================================
+
+===============================================
+Saracens:
+Difficulty level: Hard
+Castle Age: 60 kills or 30 minutes
+Imperial Age: 200 kills or 40 minutes
+Bombard Towers: 400 kills
++ Mamelukes at Stables in Feudal Age 
++ Siege Onager and Scorpions
+= Pop limit: 50
+===============================================
+
+===============================================
+Chinese:
+Difficulty level: Expert
+Castle age: 200 kills only
+Imperial Age: 400 kills or 40 minutes
+Bombard Towers: 400 kills
++ ONE MORE Villager
+= Great Wall +30% HP ALL TOWERS
++ Pop limit: 50 in Castle Age
++ Elite Chu Ko Nu at Archery Range in Castle Age and in Imperial Age
++ You only lose the game if your male villager dies
+Penalty:
+- NO HEALTH GROWTH or HEALING
+- No Free Castle age at 30 minutes
+===============================================
+
+===============================================
+Berbers:
+Difficulty level: Hardest
+Castle age: 60 kills or 30 minutes
+Imperial Age: 200 kills or 40 minutes
+Bombard Towers: 400 kills
+Bonus:
+= Villagers move +10% faster
++ Pop limit in Castle age: 50
+===============================================
+
+===============================================
+Malians:
+Difficulty level: Medium
+Castle Age: 90 kills  or 30 minutes
+Imperial Age: 200 kills or 40 minutes
+Bombard Towers: 400 kills
++ Towers fires knifes
++ 13 AP in Castle Age + 7 AP in Imperial Age ( *2 knifes)
++ Elite Gbetos at Barracks
+= Pop limit: 50
+Penalty:
+- 4 range
+===============================================
+
+===============================================
+Ethiopians:
+Difficulty level: Hard
+Castle age: 90 kills or 30 minutes
+Imperial Age: 200 kills  or 40 minutes
+Bombard Towers: 400 kills
+= Torsion Engines         
++ 20% fast vill
++ Siege Onager and Scorpions
++ Pop limit in Castle age: 30
+===============================================
+
+===============================================
+Portuguese:
+Difficulty level: Medium
+Castle age: 60 kills or 30 minutes
+Imperial Age: 200 kills  or 40 minutes
+Bombard Towers: 300 kills
++ Fast bombard towers 20% and Arquebus
++ Elite Organ Guns, Bombard Cannons and Sabouters
++ Pop limit: 50 in Castle Age
+===============================================
+
+===============================================
+Magyars:
+Difficulty level: Hard
+Castle age: 60 kills  or 30 minutes
+Imperial Age: 200 kills or 40 minutes
+Bombard Towers: 400 kills
++ One fellow companion
++ Magyar Huszar at the stables
++ Pop limit in Castle age: 50
+===============================================
+
+===============================================
+Indians
+Difficulty level: Hard
+Castle Age: 90 kills or 30 minutes
+Imperial Age: 200 kills or 40 minutes
+Bombard Towers: 400 kills
++ Towers fires hand cannon balls
++ Bombard Cannons
++ Pop limit in Castle age: 50
+===============================================
+
+===============================================
+Slavs
+Difficulty level: Hard
+Castle age: 60 kills or 30 minutes
+Imperial Age: 200 kills or 40 minutes
+Bombard Towers: 400 kills
+Bonus:
++ Elite boyar available at Stables 
++ Siege Onager and Scorpions
++ Pop limit in Castle age: 50
+===============================================
+
+===============================================
+Italians:
+Difficulty level: Medium
+Castle age: 60 kills or 30 minutes
+Imperial Age: 200 kills  or 40 minutes
+Bombard Towers: 400 kills
+Bonus:
++ Towers fire 20% faster in Castle Age and 50% faster in Imperial age 
++ 1 Range
++ Genoese Crossbowman at Archery Range in Castle Age and in Imperial Age
++ Pop limit: 50 in Castle Age
+===============================================
+
+===============================================
+Vietnamese
+Difficulty level: Hardest
+Castle age: 60 kills or 30 minutes
+Imperial Age: 200 kills  or 40 minutes
+Bombard Towers: 400 kills
++ 20% fast vill
++ Get spies after 32 minutes 
++ Pop limit in Castle age: 50
+===============================================
+
+===============================================
+Khmer:
+Difficulty level: Hard
+Castle age: 100 kills or or 30 minutes
+Imperial Age: 400 kills or 40 minutes
+NO Bombard Towers
+= Tusk Swords and Double Crossbow
++ Towers fire bolts like Scorpions.
++ Elite Ballista Elephants at stables
++ Pop limit in Castle age:30
+===============================================
+
+===============================================
+Malay:
+Difficulty level: Hard
+Castle age: 60 kills or 30 minutes
+Imperial Age: 200 kills or 40 minutes
+Bombard Towers: 400 kills
+Bonus:
++ Elite Battle Elephants available at stables
++ Pop limit in Castle age: 50 + Pop limit in Imperial age: 150
+===============================================
+
+===============================================
+Burmese:
+Difficulty level: Hard
+Castle age: 60 kills or 30 minutes
+Imperial Age: 200 kills or 40 minutes
+Bombard Towers: 400 kills
+Bonus:
++ Elite Arambai available at stables
++ Pop limit in Castle age: 50 + Pop limit in Imperial age: 150
+===============================================
+
+===============================================
+Bulgarians:
+ Difficulty level: Medium
+Castle age: 100 kills or 30 minutes
+Imperial Age: 200 kills or 40 minutes
+Bombard Towers: 400 kills
++ Krepost cost 5 population( you can build up to 12 Kreposts)
++ Siege Workshop
++ Elite Konnik
+===============================================
+
+===============================================
+Cumans: 
+Difficulty level: Hard
+Castle age: 60 kills or 30 minutes
+Imperial Age: 200 kills or 40 minutes
+Bombard Towers: 400 kills
+Bonus:
++ Elite Kipchak available at Stables 
++ Siege Onager since feudal age
++ Faster and Stronger Steppe Lancer
++ Pop limit in Castle age: 50
+===============================================
+
+===============================================
+Tartars: 
+Difficulty level: Hard
+Castle age: 60 kills or 30 minutes
+Imperial Age: 200 kills or 40 minutes
+Bombard Towers: 400 kills
+Bonus:
++ Elite Keshik available at Stables 
++ Flaming camel in Imperial age
++ Pop limit in Castle age: 50
+===============================================
+
+===============================================
+Lithuanians: 
+Difficulty level: Hard
+Castle age: 60 kills or 30 minutes
+Imperial Age: 200 kills or 40 minutes
+Bombard Towers: 400 kills
+Bonus:
++ 3 range in Castle age 
++ Elite Leitis available at Stables 
++ Stronger spearman and pikeman
++ Pop limit in Castle age: 50
+===============================================
+
+===============================================
+Sicilians:
+Difficulty level: Medium
+Castle age: 100 kills or 30 minutes
+Imperial Age: 200 kills or 40 minutes
+Bombard Towers: 400 kills
+= Pop limit: 50
+= Donjon
+= Serjeants can be trained at Donjons
+===============================================
+
+===============================================
+Burgundians:
+Difficulty level: Hard
+Castle age: 60 kills or 30 minutes
+Imperial Age: 200 kills or 40 minutes
+Bombard Towers: 400 kills
+Bonus:
++ Villager can train flemish militia (not current working)
++ Pop limit in Castle age: 50 + Pop limit in Imperial age: 150
++ Elite Coustillieri available at stables
+===============================================

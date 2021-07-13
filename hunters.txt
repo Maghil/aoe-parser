@@ -1,0 +1,383 @@
+===============================================
+Mongols:
+= Cav. Archers fire 20% faster
++ Belisarius at 40  minutes
++ Saladin at 45 minutes
+- No Boss Elephants
+===============================================
+
+===============================================
+Celts:
+= 15% Infantry Speed
++ Belisarius at 40  minutes
++ Saladin at 45 minutes
+- No Boss Elephants
+===============================================
+
+===============================================
+Teutons
++ 10% hit points infantry
++ 10 AP
++ Elite Cavalier replaces Elite Tarkan
++ Bombard Cannons can spawn at 30  minutes
++ Siege Onagers can spawn at 36 minutes
++ Paladin replaces the first genghis khan wave and it will continue until sabouters wave
++ New Boss: Master of the Templars and he can spawn at 45 minutes
+===============================================
+
+===============================================
+Byzantines:
++ 10% hit points infantry + 10 AP
++ Elite Cataphract replaces Elite Tarkan
++ 100 HP Elite Cataphract
++ Logistica
++ Flamethrowers can spawn at 34 minutes
++ Siege Ram can spawn at 35 minutes
++ Belisarius can spawn at 35 minutes
+===============================================
+
+===============================================
+Spanish:
++ Elite Cavalier replaces Elite Tarkan
++ Bombard Cannons can spawn at 30 minutes
++ Siege Ram can spawn at 35 minutes
++ New Boss: El Cid and he can spawn at 45 minutes
+===============================================
+
+===============================================
+Goths:
++ 1 Line of Sight Infantry
++ 5 AP for Infantry Units against buildings
++ Elite Huskarl replaces Elite Tarkan
++ Bombard Cannons can spawn at 30 minutes
++ Siege Ram can spawn at 35 minutes
++ NEW BOSS: theodoric the goth and he can spawn at 45 minutes
+===============================================
+
+===============================================
+Franks:
++ 50 HP Conquistadors
++ 50 HP Cav. Archers
++ 50 HP Cav.
++ 50 HP Charles Martel
++ Elite Cavalier replaces Elite Tarkan
++ Paladin replaces the first genghis khan wave and it will continue until sabouters wave
++ Bombard Cannons can spawn at 30 minutes
++ New Boss: Master of the Templars replaces Saladin and he can spawn at 45 minutes
++ NEW BOSS: Raynald of Châtillon replaces William the Conqueror
+===============================================
+
+===============================================
+Britons:
++ Elite Cavalier replaces Elite Tarkan
++ Elite Longbows gets + 1 range and replaces conquistadors and 1st genghis khan wave
++ NEW BOSS: Richard the Lionheart replaces Saladin and he can spawn at at 45 minutes
++ William the conqueror and his army
+===============================================
+
+===============================================
+Vikings:
++ Infantry gets Berserkergang and 10% hit points
++ Elite Berserker replaces Elite Teutonic Knights
++ Elite Berserker extra wave replaces Elite Tarkan
++ Harald Hardraade replaces Genghis Khan first wave
++ Siege Onagers can spawn at 36 minutes
++ Siege Ram can spawn at 35 minutes
++ New boss: Hrolf the ganger and he can spawn at 45 minutes
+===============================================
+
+===============================================
+Huns:
++ Eastern swordsman replaces Elite Teutonic Knights
++ Elite Kipchak replaces Conquistador
++ 15% Fast Cav.
++ 50HP elite tarkans
++ Siege Ram can spawn at 35 minutes
++ NEW BOSS: Attila the Hun replaces Belisarius and he can spawn at at 45 minutes
+===============================================
+
+===============================================
+Saracens:
+= Cavalry Archers +3 attack vs buildings
++ Eastern swordsman replaces Elite Teutonic Knights
++ Zealotry
++ Imperial Camel replaces Elite Tarkans
++ Elite Kipchak replaces Conquistador
++ Elite Mameluke replaces the first genghis khan wave
++ Bombard Cannons can spawn at 30 minutes
++ Siege Onagers can spawn at 36 minutes
++ Siege Ram can spawn at 35 minutes
++Saladin can spawn at 45 minutes
+===============================================
+
+===============================================
+Persians:
++ Eastern swordsman replaces Elite Teutonic Knights
++ Imperial Camel replaces Elite Tarkans
++ Elite Kipchak replaces Conquistador
++ War Elephants gets 1000 HP
++ War Elephants replaces genghis khan first wave
++ Mahouts
++ Bombard Cannons can spawn at 30 minutes
++ Siege Ram can spawn at 35 minutes
++ New Boss: Khosrau and he can spawn at 45 minutes
+===============================================
+
+===============================================
+Turks:
++ Eastern swordsman replaces Elite Teutonic Knights
++ Imperial Camel replaces Elite Tarkans
++ Elite Janissary replaces Charles Martel
++ Elite Kipchak replaces Conquistador
++ Bombard Cannons can spawn at 30 minutes
++ Siege Ram can spawn at 35 minutes
++ New Boss: Osman and he can spawn at 45 minutes
+===============================================
+
+===============================================
+Mayans:
++ Elite Eagle warrior replaces Elite Teutonic Knights
++ Elite Shotel Warrior replaces elite tarkans
++ Hunter gets one villager at 5 minutes
++ Obsidian Arrows
++ Elite Shotel Warrior replaces elite tarkans
++ Arbalest replaces Subotai
++ Siege Ram can spawn at 35 minutes
++ NEW BOSS: Pacal II and he can spawn at 45 minutes
+===============================================
+
+===============================================
+Aztecs:
++ 10% speed infantry
++ Garland Wars
++ Elite Jaguar Warrior replaces Knight Teutons
++ Elite Shotel Warrior replaces elite tarkans
++ Arbalest replaces Subotai
++ Siege Onager can spawn at 30 minutes
++ Siege Ram can spawn at 35 minutes
++ NEW BOSS: Itzcoatl and he can spawn at 45 minutes
+===============================================
+
+===============================================
+Japanese:
++ Nobunaga replaces Knight Teutons and Elite Tarkans
++ Elite Cavalier replaces Elite Tarkan
++ Subotai shoots extra arrows
++ Elite Rattan Archer replaces Charles Martel
++ Elite Kipchak replaces Conquistador
++ NEW BOSS: Gajah Mada and he can spawn at 45 minutes
+===============================================
+
+===============================================
+Chinese:
++ Eastern swordsman replaces Elite Teutonic Knights
++ Elite Cavalier replaces Elite Tarkan
++ Elite Chu Ko Nu replaces Charles Martel
++ Elite Kipchak replaces Conquistador
++ Rocketry
++ Sabouters +300 HP
++ Chu Ko Nu replaces charles martel
++ Siege Ram can spawn at 35 minutes
+===============================================
+
+===============================================
+Koreans
++ Shinkichon
++ Eastern swordsman replaces Elite Teutonic Knights
++ Elite Cavalier replaces Elite Tarkan
++ Elite Chu Ko Nu replaces Charles Martel
++ Elite Kipchak replaces Conquistador
++ Elite War Wagon replaces Genghis Khan First Wave
++ Bombard Cannons can spawn at 30 minutes
++ Siege Onager can spawn at 36 minutes
+===============================================
+
+===============================================
+Ethiopians:
++ Gidajan replaces Frederik Barbarossa
++ Archers fire 15% faster
++ Elite Shotel Warrior replaces elite tarkans
++ Super Cav Archer replaces Conquistador
++ Arbalest replaces Subotai
++ Bombard Cannons can spawn at 30 minutes
++ Siege Ram can spawn at 35 minutes
++ Siege Onager can spawn at 30 minutes
++ NEW BOSS: Dagnajan and he can spawn at 45 minutes
+===============================================
+
+===============================================
+Malians:
++ Gidajan replaces Elite Teutons Knights
++ Elite Shotel Warrior replaces elite tarkans
++ Elite Kipchak replaces Conquistador
++ Gbeto + 5 AP and 50 HP
++ Farimba
++ Bombard Cannons can spawn at 30 minutes
++ Siege Onager can spawn at 30 minutes
++ NEW BOSS: Sundjata and he can spawn at 45 minutes
+===============================================
+
+===============================================
+Berbers:
++ Eastern swordsman replaces Elite Teutonic Knights
++ Imperial Camel replaces Elite Tarkans
++ Elite Camel Archers replaces Conquistador
++ Maghrabi Camels
++ Bombard Cannons can spawn at 30 minutes
++ NEW BOSSES: Tariq ibn Ziyad and he can spawn at 40 minutes
+ and Musa Ibn Nusayr and he can spawn at 45 minutes
+
+Portuguese:
++ Arquebus
++ Elite Organ Gun replaces Conquistadors
++ Bombard Cannons replaces all Genghis Khan Waves
+- no bosses
+
+
+
+
+
+2.The Forgotten:
+
+Italians
++ Pavise
++ Condottiero replaces Teutonic knight
++ Elite Cavalier replaces Elite Tarkan
++ Arbalest replaces Subotai
++ Elite Genoese Crossbowman replaces Charles Martel
++ Bombard Cannons can spawn at 30 minutes
++ NEW BOSS: Francesco Sforza and he can spawn at 45 minutes
+
+Incas:
++ Elite Kamayuk replaces Frederick Barbarossa
++ Elite Shotel Warrior replaces Elite Tarkans
++ Arbalest replaces Subotai
++ Siege Ram can spawn at 35 minutes
++ Siege Onager can spawn at 30 minutes
++ NEW BOSS: Pachacuti and he can spawn at 45 minutes
+
+Indians:
++ Eastern swordsman replaces Elite Teutonic Knights
++ Imperial Camel replaces Elite Tarkans
++ Elite Elephant archers replaces Conquistadors
++ Bombard Cannons can spawn at 30 minutes
++ NEW BOSS: Prithviraj and he can spawn at 45 minutes
++ Boss Elephants can spawn at 30 minutes
+
+Slavs:
++ Elite Boyar replaces Elite Tarkan
++ Elite Boyar gets + 100 HP
++ Elite Kipchak replaces Conquistador
++ 10% Fast Cav.
++ Siege Onagers can spawn at 36 minutes
++ Siege Ram can spawn at 35 minutes
++ NEW BOSS: Alexander Nevsky and he can spawn at 45 minutes
+
+Magyars:
++ Elite Cavalier replaces Elite Tarkan
++ Elite Kipchak replaces Conquistador
++ Recurve bow (cav archers +1 range, +1 attack) + Forging, Iron Casting, Blast Furnace for free
++ NEW BOSS: Miklos Toldi and he can spawn at 45 minutes
+
+3.Rise of the Rajas:
+
+Malay
++ Elite Karambit  replaces Teutonic Knight
++ Elite Battle Elephants replaces Elite Tarkan
++ Elite Rattan Archers replaces Charles Martel
++ Elite Kipchak replaces Conquistador
++ Bombard Cannons can spawn at 30 minutes
++ New Boss: Super Elephant and he can spawn at 45 minutes
+
+Vietnamese:
++ Sunda Royal Fighter replaces Elite Teutonic Knights
++ Elite Battle Elephants replaces elite tarkans
++ Elite Arambai replaces Subotai
++ Elite Rattan Archer replaces Charles Martel
++ Elite Kipchak replaces Conquistador
++ Bombard Cannons can spawn at 30 minutes
++ Boss Elephants can spawn at 30 minutes
++ When the game starts - the Hunter can see the villager for 30 seconds
++ New Boss: Le Loi and he can spawn at 45 minutes
+
+Khmer:
++ Sunda Royal Fighter replaces Elite Teutonic Knights
++ Elite Cavalier replaces Elite Tarkan
++ Elite Rattan Archers replaces Charles Martel
++ Elite Kipchak replaces Conquistador
++ Ballista Elephant replaces First Genghis Khan wave
++ Elephants gets + 400 HP
++ Tusk Swords
++ Double CrossBow
++ Boss Elephants can spawn at 30 minutes
++ New Boss: Super Elephant(King of the Khmer) and he can spawn at 45 minutes
+
+Burmese:
++ Sunda Royal Fighter replaces Elite Teutonic Knights
++ Elite Battle Elephants replaces Elite Tarkan
++ Elite Arambai replaces Subotai
++ Elite Rattan Archers replaces Charles Martel
++ Elite Kipchak replaces Conquistador
++ Manipur Cavalry
++ Howdah
++ Elite Battle elephants replaces Genghis Khan first wave
++ Bombard Cannons can spawn at 25 minutes
++ Boss Elephants can spawn at 30 minutes
++ New Boss: Super Elephant and he can spawn at 45 minutes
+
+4. New Civs:
+
+Bulgarians: 
++ Konnik (unmounted) replaces Elite Teutonic Knights
++ Elite Konnik replaces Elite Tarkan
++ Elite Kipchak replaces Conquistador
++ Siege Ram can spawn at 35 minutes
++ Siege Onager can spawn at 36 minutes
++ New Boss: Ivaylo and he can spawn at 45 minutes
+
+Cumans: 
++ Eastern swordsman replaces Elite Teutonic Knights
++ Cavalier replaces Elite Tarkans
++ Elite Gbeto replaces Charles Martel
++ Elite Kipchak replaces Conquistador
++300 HP Elite Kipchak
++ Siege Ram can spawn at 35 minutes
++ Siege Onagers can spawn at 36 minutes
++ New Boss: Kotyan Khan and he can spawn at 45 minutes
+
+Tartars: 
+= Timurid Siegecraft and Silk Armor
++ Eastern swordsman replaces Elite Teutonic Knights
++ Imperial Camel replaces Elite Tarkans
++ Elite Keshik replaces Subotai
++ Elite Gbeto replaces Charles Martel
++ New Boss: Tokhtamysh Khan and he can spawn at 45 minutes
+
+Lithuanians: 
++ 20 AP all knights
++ Elite Leitis replaces Elite Tarkan
++ Elite Kipchak replaces Conquistador
++ Bombard Cannons can spawn at 30 minutes
++ New Boss: Vytautas the Great and he can spawn at 45 minutes
+
+
+
+
+
+
+5.Lords of the West
+
+Sicilians:
++ Elite Serjeant  replaces Elite Teutonic Knights
++ Elite Serjeant can build towers
++ Cavalier replaces Elite Tarkans
++ Siege Ram can spawn at 35 minutes
++ Siege Onagers can spawn at 36 minutes
++ New Boss:  Robert Guiscard and he can spawn at 45 minutes
+
+Burgundians:
++ Flemish militia replaces Elite Teutonic Knights
++ Elite Coustillier replaces Elite Tarkans 
++ Hand Cannoneer replaces Subotai
++ Bombard Cannons can spawn at 30 minutes
++ New Boss: John the Fearless and he can spawn at 45 minutes
